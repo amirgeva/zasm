@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import re
-import cProfile
 import os
 import shlex
 import time
