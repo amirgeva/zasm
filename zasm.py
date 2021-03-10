@@ -395,7 +395,7 @@ def main():
 
 
 if __name__ == '__main__':
-    start = time.time()
+    # start = time.time()
     main()
-    total = time.time() - start
-    print(f"Total time: {total:0.2f} seconds")
+    # total = time.time() - start
+    # print(f"Total time: {total:0.2f} seconds")
